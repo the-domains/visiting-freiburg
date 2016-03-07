@@ -2,12 +2,13 @@ name: Visiting Freiburg
 favicon: null
 layout_spectrum: 0.7081153560429811
 typography_spectrum: 0.4455884313210845
+title: Visiting Freiburg
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-74781813-1
   facebook: null
   twitter: null
 opengraph:
